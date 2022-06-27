@@ -1,7 +1,7 @@
 # Example Project using Quarkus, RabbitMQ
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
 Rabbitmq documentation:  https://www.rabbitmq.com/documentation.html
+
 Quarkus documentation: https://quarkus.io/guides/
 
 ## Running the application in dev mode
