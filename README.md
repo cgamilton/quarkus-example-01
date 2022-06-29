@@ -8,11 +8,11 @@ Quarkus documentation: https://quarkus.io/guides/
 
 ``` ./mvnw package ```
 
-# Then, build the image with:
+### Then, build the image with:
 
 ``` docker build -f src/main/docker/Dockerfile.jvm -t quarkus/example01-jvm . ```
 
-# Then start the containers with docker-compose:
+### Then start the containers with docker-compose:
 
 ``` cd ./src/main/docker ```
 ``` docker-compose up ```
